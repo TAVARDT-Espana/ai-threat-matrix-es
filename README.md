@@ -79,13 +79,8 @@ jobs:
 ## Cumplimiento y Estándares Técnicos
 
 - **Estándar de Cumplimiento**: OWASP Top 10 para Aplicaciones LLM y MITRE ATLAS
-- **Organización Mantenedora**: [TAVARDT-Espana](https://github.com/TAVARDT-Espana)
 
-## Portales Oficiales
 
-- **Portal Institucional**: [Portal Institucional](https://ag.tavardt.com/es/)
-- **Centro de Herramientas**: [Central de Ferramentas](https://tools.tavardt.com/es/)
-- **Canal de Atención y Soporte Técnico**: [https://ag.tavardt.com/es/contacto/](https://ag.tavardt.com/es/contacto/)
 
 ***
 
